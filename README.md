@@ -123,10 +123,6 @@ bye
 Cybersecurity Enthusiast | Developer | CTF Player
 </p>
 
-<p>
-<i>“I was created by you, Boss — Aayush.”</i>
-</p>
-
 <hr>
 
 <h2>⭐ Support</h2>
